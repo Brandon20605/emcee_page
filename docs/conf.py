@@ -7,7 +7,7 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 import os
 import sys
-sys.path.insert(0, os.path.abspath('../emcee_rapper'))
+sys.path.insert(0, os.path.abspath('..'))
 project = 'emcee_rapper'
 copyright = '2025, Cat Sarosi, Thomas Kennedy, Andres Sixtos, Anthony Arenas'
 author = 'Cat Sarosi, Thomas Kennedy, Andres Sixtos, Anthony Arenas'
